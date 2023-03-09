@@ -1,3 +1,6 @@
+body{
+    background-origin: padding-box;
+}
 h1 {
     color: rgb(8, 7, 8);
     background-color: darkmagenta;
@@ -30,4 +33,7 @@ table {
     border: black;
     border-width: medium;
     border-style: double;
+}
+button {
+    color: dodgerblue; 
 }
