@@ -1,6 +1,9 @@
 body {
-    margin: 1em; border-color: deeppink;border-width: medium;
+    margin: 1em;
+    border-color: deeppink;
+    border-width: medium;
 }
+
 h1 {
     color: rgb(8, 7, 8);
     background-color: darkmagenta;
@@ -23,4 +26,7 @@ h3 {
     font-size: x-large;
 }
 
-p {color: rgb(56, 55, 55);font-family: 'Times New Roman', Times, serif;}
+p {
+    color: rgb(56, 55, 55);
+    font-family: 'Times New Roman', Times, serif;
+}
