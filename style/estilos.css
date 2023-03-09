@@ -1,6 +1,7 @@
-body{
+body {
     background-origin: padding-box;
 }
+
 h1 {
     color: rgb(8, 7, 8);
     background-color: darkmagenta;
@@ -33,7 +34,28 @@ table {
     border: black;
     border-width: medium;
     border-style: double;
+    padding: auto;
 }
+
 button {
-    color: dodgerblue; 
+    background-color: dodgerblue;
+    border-width: medium;
+}
+
+a:active {
+    color: darkcyan;
+}
+
+a:visited {
+    color: darkmagenta;
+}
+
+a:hover {
+    color: coral;
+    background-color: cornflowerblue;
+}
+
+a:active {
+    width: fit-content;
+    font-size: larger;
 }
