@@ -55,7 +55,3 @@ a:hover {
     background-color: cornflowerblue;
 }
 
-a:active {
-    width: fit-content;
-    font-size: larger;
-}
