@@ -55,3 +55,20 @@ a:hover {
     background-color: cornflowerblue;
 }
 
+thead {
+
+    font-weight: bold;
+
+}
+
+tbody tr {
+
+    background-color: #ba29e6;
+
+}
+
+tfoot {
+
+    background-color: #8a52be;
+
+}
